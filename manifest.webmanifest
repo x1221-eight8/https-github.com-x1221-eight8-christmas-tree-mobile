@@ -1,0 +1,15 @@
+{
+  "name": "圣诞记忆树",
+  "short_name": "记忆树",
+  "description": "用照片和手势控制的 3D 圣诞树",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071412",
+  "theme_color": "#071412",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
